@@ -1,0 +1,15 @@
+FACE RECOGNITION - CLASSIFICATION REPORT
+============================================================
+
+Model: face_recognition_model.h5
+Total samples: 6
+Accuracy: 100.00%
+============================================================
+
+              precision    recall  f1-score   support
+
+        izza      1.000     1.000     1.000         6
+
+    accuracy                          1.000         6
+   macro avg      1.000     1.000     1.000         6
+weighted avg      1.000     1.000     1.000         6
