@@ -1,10 +1,10 @@
 from main import RealtimeFaceRecognition
 
 # Nama orang sesuai urutan folder (alfabetis)
-class_names = ['andi', 'budi', 'citra', 'dedi', 'eka']
+class_names = ['izza']
 
 recognizer = RealtimeFaceRecognition(
-    model_path='my_face_model.h5',
+    model_path='face_recognition_model.h5',
     class_names=class_names
 )
 
